@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "FAQ for Professors"
+    url: /professors-faq/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Syllabus Template"
+    url: /syllabus/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "FAQ for Students"
+    url: /students-faq/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Mission Trip Prospectus"
+    url: /mtprospectus/
         
   - title: "Blog Posts"
     url: /year-archive/
