@@ -1,9 +1,9 @@
 ---
-permalink: /syllabustemplate/
+permalink: /syllabus/
 title: "Syllabus Template"
 author_profile: true
 redirect_from: 
-  - /syllabustemplate/
+  - /syllabus/
   - /markdown.html
 ---
 
