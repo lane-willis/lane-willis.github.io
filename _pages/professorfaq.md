@@ -81,18 +81,18 @@ redirect_from:
 * You also need to research airfare, housing, food costs, local transportation, immunization needs, accessible healthcare in case of injury, and safety advisories. 
   * Costs associated will need to be submitted on the trip prospectus before a trip can be approved.
 
-1. Do I need to lead a devotional every morning for students? Or will students do this?
+11. Do I need to lead a devotional every morning for students? Or will students do this?
    * The students need to have some sort of personal time with the Lord. You can make this personal time a requirement and put this into your trip schedule. You can also choose to have group devotionals in the morning after this time, if you feel like you can fit that into your schedule. You can lead a devotional or have a student lead the short devotional. This is up to you. We encourage some group prayer time before going out for the day, seeking the Lord's guidance and aid in your endeavors.
-2. What guidelines do I need to follow in creating the trip?
+12. What guidelines do I need to follow in creating the trip?
    * The guidelines to follow in creating the trip are located in the FAQ section and the Trip Expectations. You also need to follow SEBTS guidelines for course requirements.
 
-> link to this, either the website or on the webpage below.
+    > link to this, either the website or on the webpage below.
 
-1. What guidelines do I need to follow while on the trip?
+13. What guidelines do I need to follow while on the trip?
 
 * During the trip, you will be representing yourselves, the Lord, and SEBTS. While on the field, you are to follow covenantal guidelines found in the BFM 2000, the Student Handbook, and any other documents that you are expected to uphold while serving as a professor. Just because you are out of the country does not mean your expectations change. They are the same as while you are on campus. An additional expectation on a mission trip is that you invest in the students on the trip, desiring to see them stretched in new ways and encouraging them to take steps of faith.
 
-1. What expectations do we have for students?
+14. What expectations do we have for students?
    * We expect students to be heavy participants on the trip. They should not be lackadaisical or apathetic. They are to be involved every step of the way. Students are also expected to complete all course related materials, attend a pre-trip briefing, and write a donor thank you letter. Other expectations can be seen in the example syllabus. **Link example syllabus**
 
 ##### Money
