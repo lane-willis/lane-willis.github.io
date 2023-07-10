@@ -3,7 +3,7 @@ permalink: /professor-FAQ/
 title: "FAQ for Professors"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /professors-faq/
   - /markdown.html
 ---
 
