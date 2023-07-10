@@ -1,5 +1,5 @@
 ---
-permalink: /professor-FAQ/
+permalink: /professor-faq/
 title: "FAQ for Professors"
 author_profile: true
 redirect_from: 
