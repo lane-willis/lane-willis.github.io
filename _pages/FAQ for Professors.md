@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "FAQ for Professors"
-permalink: /professors-faq/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
