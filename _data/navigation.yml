@@ -1,16 +1,14 @@
 # main links links
 main:
-  - title: "FAQ for Professors"
-    url: /professors-faq/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Syllabus Template"
-    url: /syllabus/    
+  - title: "Library"
+    url: /library/    
 
-  - title: "FAQ for Students"
-    url: /students-faq/    
+  - title: "Papers"
+    url: /papers/    
     
-  - title: "Mission Trip Prospectus"
-    url: /mtprospectus/
-    
-  - title: "Guide"
-    url: /about/
+  - title: "Places Visited"
+    url: /travel/
+
