@@ -1,5 +1,5 @@
 ---
-permalink: /Library/
+permalink: /library/
 title: "Library"
 author_profile: true
 redirect_from: 
