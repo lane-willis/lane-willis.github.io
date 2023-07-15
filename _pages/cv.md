@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Polymer Color Chemistry
+   * NC State University, 2018
+* M.Div. in Missiology
+   * Southeastern Baptist Theological Seminary, 2024 (expected)
 
 Work experience
 ======
