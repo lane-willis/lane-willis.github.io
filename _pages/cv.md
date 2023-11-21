@@ -14,7 +14,7 @@ Education
 * B.S. in Polymer Color Chemistry
    * NC State University, 2018
 * M.Div. in Missiology
-   * Southeastern Baptist Theological Seminary, 2024 (expected)
+   * Southeastern Baptist Theological Seminary, 2025 (expected)
 
 Work experience
 ======
