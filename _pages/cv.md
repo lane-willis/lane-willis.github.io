@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
+
 Education
 ======
 * B.S. in Polymer Color Chemistry
