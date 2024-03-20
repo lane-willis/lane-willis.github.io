@@ -8,7 +8,10 @@ main:
 
   - title: "Papers"
     url: /papers/    
-    
+
+  - articles: "Articles"
+    url: /articles/
+
   - title: "Places Visited"
     url: /travel/
 
