@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Articles"
 permalink: /articles/
 author_profile: true
 redirect_from:
@@ -58,15 +58,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Youth Mentor, Southside Baptist Church, Mooresville, NC, 2011–2014
-   * Guided younger teens in the youth group and aided them in learning to become responsible young adults
-* Participant, CRU NCSU, Raleigh, NC, 2014–Spring 2019
-* Bible Study Leader, CRU NCSU, Raleigh, NC, 2015–Spring 2019
-* Affiliate Staff, CRU NCSU, Raleigh, NC, 2017–Spring 2018
-* Mentor, Goodnight Scholars Program, NCSU, Raleigh, NC Fall 2016
-* Treasurer, Kappa Tau Beta, NCSU, Raleigh, NC Spring 2017–Spring 2018
-* College of Textiles Ambassador, NCSU, Raleigh, NC Fall 2017–Spring 2018
-* Kenya Mission Trip, Interlocking Ministries, June 2022
-
