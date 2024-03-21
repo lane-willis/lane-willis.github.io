@@ -1,12 +1,12 @@
 ---
-title: "Article Number 1"
+title: "Church"
 collection: articles
-permalink: /articles/article-1
+permalink: /articles/church
 excerpt: 'This is my first article. Enjoy'
 date: 2024-03-21
 venue: 'CGCS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lane Willis. (2024). &quot;Church.&quot; <i>CGCS</i>. 1(1).'
 ---
 This article is about church.
 
