@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Lane Willis"
-  avatar           : "cgcs.png.png"
-  bio              : "My name is Lane Willis. I am a student at SEBTS working in the CGCS. I am looking at using a GitHub site for the Center's documentation. This is a test drive."
+  avatar           : 
+  bio              : "My name is Lane Willis. I love language and culture! I utilize this site to document my adventures abroad! I also enjoy writing and so some of my articles may make their way on to this site at some point!"
   location         : "USA"
-  employer         : "CGCS"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
