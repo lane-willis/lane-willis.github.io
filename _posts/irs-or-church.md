@@ -1,0 +1,46 @@
+---
+title: 'Church'
+date: 2024-05-20
+permalink: /posts/irsvschurch/
+tags:
+  - church
+  - irs
+---
+
+## Did the IRS Define Church Better than Us?  
+
+What makes a church a church? This question is at the forefront of much debate. Much ink has been spilled over this topic, from articles to journal entries to books. Theologians, pastors, and missionaries seek to ground their ecclesiology in Scripture, but many disagree over how to interpret and apply the passages that deal with the church. There is also a lack of clarity surrounding this topic for church members. In this digital age, the most common way to find a definition is by looking it up on Google.  
+
+It is this question that led me to scour the internet. I wanted to see how different theologians defined the church, so I explored Dever, Allison, Hammett, and Payne (among others). I also searched encyclopedias, journals, and other sites which commonly post about theology. Oddly enough, while researching this topic, I stumbled upon an article from the IRS archive that defines church according to the law. The IRS? Really? 
+
+The IRS defines 'what it means to be a church' because churches in America can apply for tax exemption. Yet, what does it take to be a church in the eyes of the law? How does this compare to a biblical definition of church? In 1994, Louthian and Miller analyzed previous court cases and combined those with current stipulations to arrive at a definition.<sup>1</sup> When considering their definition, I found a few prevailing categories. Louthian and Miller define the church as congregational, physically participatory, and evangelistic.  
+
+### Congregational  
+
+Louthian and Miller begin their conclusion about church by saying, “The presence or absence of a congregation is a key factor in analyzing whether an organization should be classified as a church. In looking for a congregation, the central focus is whether the organization's membership is a coherent group of individuals or families that join together to accomplish religious purposes or shared beliefs.”<sup>2</sup>
+
+One of the markers Louthian and Miller emphasize is that the church must have a congregation that has covenanted together around a common goal. Sound familiar? The Bible emphasizes a similar idea by utilizing language about the church being a unified body, a spiritual temple, and the people of God. The Christian life should not be a lonely walk; instead, Christians are encouraged to love one another, exhort one another, and build each other up in Christ.  
+
+### Physically Participatory  
+
+“Another consideration is how the claimed congregation participates. Although it is not essential that a regular congregation comes together for services, purely passive participation, for example through television or mail, is not the manner of participation commonly characteristic of a congregation.”<sup>3</sup>
+
+Here, Louthian and Miller describe how much physical presence a church needs to report to sustain tax-exempt status. They set boundaries for this participation that do not require physical weekly services. However, the boundaries also deny church status to those who only have passive participants by television or mail. Today, this conversation looms large. With online services, online churches, metaverse churches, and the issue of embodiment, the idea of the church is rapidly expanding and shifting. Thus, it is interesting to note that in the eyes of the law, a church must have a physical presence and not just meet online. Further, for those who only meet online, the IRS classifies them as a ministry and not a church. For more information on this, StartCHURCH has an article detailing this distinction.  
+
+A quote by Gregg Allison emphasizes this point as well. He says, "Scripture indicates that specific churches were established in specific places with concrete addresses."<sup>4</sup> By this, Allison defends the local gathering of the body physically. Thus, when considering what makes a church a church, we must reflect on embodiment, physical presence, participation, and locality.  
+
+### Evangelistic  
+
+“An organization with few current members that is actively seeking to convert new members should not be denied church classification solely on the grounds that its membership does not constitute a congregation. However, a small membership that is not seeking to grow may not only be a cause to question whether the organization should be classified as a church, it may also indicate the presence of inurement that would disqualify the organization from exemption.”<sup>5</sup>
+
+Lastly, Louthian and Miller highlight an aspect of church growth. They do not use biblical terminology here, but one might relate this to evangelism and discipleship. To be considered a church, the congregation must actively seek growth! Matthew 28:18-20 calls believers to make disciples of all nations. 2 Corinthians 5 calls believers ambassadors and witnesses. The book of Acts shows the radical growth of the church through the power of the Holy Spirit. The Bible is replete with examples and commands that echo this sentiment. The church as a body is sent to those around them so that they might be a light to the nations so that all might hear. Do you view your role as a church member this way? Do you view the church this way?  
+
+## So why does this matter?  
+
+The church is in a state of flux. There is consistent confusion over what it means to be a church and how churches should function. Church-wide evangelism and discipleship are lacking. Further, there is a lack of clarity surrounding the definition of church. With the advance of technology, the church is reaching a crisis point. Questions such as "How do we do ministry online?" or "Can an online church be classified as a church?" have arisen. There are arguments from both sides. Some view digital methods as a church, while others argue vehemently against it, citing presence and embodiment. At times, church seems like some esoteric knowledge that only professional Christians can accurately define. Yet, as the Christian world scrambles over a definition of church, the IRS may have something correct. By viewing the church as congregational, physically participatory, and evangelistic, the IRS may uphold biblical principles even if they do not know it. May this challenge us as we seek to define church better for our membership!
+
+## Works Cited
+
+(4) Allison, Gregg R. Sojourners and Strangers: The Doctrine of the Church. Edited by John S. Feinberg. 1st edition. Wheaton, IL: Crossway, 2012.
+
+(1, 2, 3, 5) Louthian, Robert, and Thomas Miller. “Defining ‘Church’ - The Concept of a Congregation,” 1994. https://www.irs.gov/pub/irs-tege/eotopica94.pdf.
