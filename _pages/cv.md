@@ -27,9 +27,7 @@ Education
 * B.S. in Polymer Color Chemistry
    * NC State University, 2018
    * Cumulative GPA: 3.90/4.0
-* M.Div. in Missiology
-   * Southeastern Baptist Theological Seminary, 2025 (expected)
-   * Cumulative GPA: 4.0/4.0
+
 
 Work experience
 ======
@@ -44,20 +42,6 @@ Work experience
       * Taught a staff of 13 how to serve on mission sites and equipped them to lead others in how to do this
       * Creatively organized a site rally to get students pumped to go serve at mission sites
       * Proficiently used Google Drive to organize files and share information with site contacts
-* Intern, CRU, NCSU, Raleigh, NC
-   * 8/1/18 – 8/1/19
-      * Led a weekly Bible study for male students
-      * Discipled five guys weekly; walking through the Word with them, doing evangelism around NCSU, and helping them strengthen their faith
-      * Proficiently used Google Drive to organize files and share information with other staff
-      * Planned events for East Campus Students to attend
-      * Helped plan larger events for all of CRU
-* International Intern, CRU, Middle East
-   * 8/1/19 – 7/1/20
-      * Learned how to interact and communicate efficiently with people from a different culture, blending our experiences and pasts
-      * Studied portions of the Arabic language as a student while overseas
-      * Explored University Campuses to identify good places to do ministry
-      * Set goals with my teammates for the year, and for every six weeks to work towards achieving
-      * Developed Facebook ad campaigns to send out to the people in the Middle East during COVID-19
 * Pastoral Intern with Senior Adults, Southside Baptist Church, Mooresville, NC
    * 8/1/20 – 1/1/21
       * Facilitated and partook in overhauling our church management software membership system from quite dysfunctional to organized and usable.
@@ -74,17 +58,21 @@ Work experience
       * Met patient needs as much as possible while in transport, often conversing with and praying for patients.
       * Worked with the owner to arrange driver schedules and rearrange driver schedules when an appointment rang long.
       * Drafted a first edition driver manual for the business to use.
-* Database Coordinator, Center for Great Commission Studies, Wake Forest, NC
+* Database Coordinator, Wake Forest, NC
    * 12/07/22 - present
+      * 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in Markdown
+* Quick learner of language (also quick to forget... ha!)
+* Extroverted
+* Proficient in Microsoft
+* Some knowledge of WordPress
+* Organized
+* Quick processor
+* Efficient
+* Flexible
 
 Papers
 ======
@@ -103,16 +91,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Youth Mentor, Southside Baptist Church, Mooresville, NC, 2011–2014
-   * Guided younger teens in the youth group and aided them in learning to become responsible young adults
-* Participant, CRU NCSU, Raleigh, NC, 2014–Spring 2019
-* Bible Study Leader, CRU NCSU, Raleigh, NC, 2015–Spring 2019
-* Affiliate Staff, CRU NCSU, Raleigh, NC, 2017–Spring 2018
-* Mentor, Goodnight Scholars Program, NCSU, Raleigh, NC Fall 2016
-* Treasurer, Kappa Tau Beta, NCSU, Raleigh, NC Spring 2017–Spring 2018
-* College of Textiles Ambassador, NCSU, Raleigh, NC Fall 2017–Spring 2018
-* Kenya Mission Trip, Interlocking Ministries, June 2022
 
