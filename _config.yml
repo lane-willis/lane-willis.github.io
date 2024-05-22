@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lane Willis / Student"
+title                    : "Lane Willis"
 title_separator          : "-"
 name                     : &name "Lane Willis"
 description              : &description "Test Drive site for personal use."
