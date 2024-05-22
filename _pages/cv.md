@@ -60,7 +60,18 @@ Work experience
       * Drafted a first edition driver manual for the business to use.
 * Database Coordinator, Wake Forest, NC
    * 12/07/22 - present
-      * 
+      * Built a CRM database to track students we interact with.
+        * The CRM hosts student data pertinent to guiding them along the proper pathway.
+        * The CRM also hosts “deals” that act as our pathways, ensuring we always know where students are at in the process.
+      * Interacted with denominational partners to delineate specific pathways for partnership.
+      * Interacted with HubSpot reps to diagnose issues and solve problems.
+      * Built a GitHub documentation site for the CGCS to display documentation for students, faculty, and partners.
+      * Achieved proficiency in Markdown.
+      * Organized continuity folders for the office.
+      * Worked with the Digital Communication Specialist on the WordPress site.
+      * Achieved proficiency in WordPress.
+      * Organized closets, office spaces, and more when needed.
+      * Helped update processes in the office to a more technological sphere.
   
 Skills
 ======
