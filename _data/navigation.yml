@@ -15,3 +15,5 @@ main:
   - title: "Places Visited"
     url: /travel/
 
+  - title: "Blog"
+    url: /posts/
