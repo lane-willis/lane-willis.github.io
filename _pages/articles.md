@@ -43,3 +43,10 @@ Ideas
   * Include thorny missiological questions as motivations.
 * Establish a rubric for church.
 * Apply rubric to missiological questions.
+* Digital church and missions
+  * Look at the sides and views. Survey field.
+  * Digital media and mission on the field.
+* AI translation? Good, bad or ugly?
+  * Do I want my computer translating the Bible?
+* Hubspot Mobilization/pathways.
+* Sending culture manual?
